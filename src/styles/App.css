@@ -1,16 +1,22 @@
 h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
-
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+  color: rgb(34, 193, 195);
 }
 
-.bg-pink{
-	background-color:pink;
+h2 {
+  color: rgb(221, 112, 18);
+}
+
+h3 {
+  color: rgb(44, 209, 88);
+}
+
+button {
+  color: #27aedb;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-pink {
+  background-color: pink;
 }
